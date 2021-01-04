@@ -1,0 +1,205 @@
+First Last Country Pos Team Age DOB MP Starts Min Gls Ast PK PKatt CrdY CrdR Gls90 Ast90 G+A90 G-PK90 G+A-PK90 Number Hometown Height
+Jackie Acevedo MEX FW Portland 27 1987 2 0 15 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Danesha Adams USA FW,MF Washington 27 1986 13 9 802 1 1 0 0 1 0 0.11 0.11 0.22 0.11 0.22 - - -
+Adriana ESP FW WNY Flash 27 1986 19 12 1,195 3 4 0 0 0 0 0.23 0.30 0.53 0.23 0.53 - - -
+Teigen Allen AUS DF WNY Flash 19 1994 4 2 258 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Jordan Angeli USA DF,FW Washington 27 1986 10 2 235 0 0 0 0 1 1 0.00 0.00 0.00 0.00 0.00 - - -
+Nadine Angerer GER GK Portland 35 1978 22 22 1,917 - - 0 0 - - - - - - - - - -
+Leigh Ann Brown USA DF,MF Kansas City 27 1986 23 23 2,012 0 2 0 0 0 0 0.00 0.09 0.09 0.00 0.09 - - -
+Jazmyne Avant USA DF Boston 24 1990 12 9 778 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Yael Averbuch USA DF,MF Washington 27 1986 22 17 1,562 1 1 0 0 1 0 0.06 0.06 0.12 0.06 0.12 - - -
+Amy Barczuk USA DF WNY Flash 23 1990 19 9 886 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Lauren Barnes USA DF Seattle 24 1989 23 22 1,898 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Nicole Barnhart USA GK Kansas City 32 1981 22 22 1,935 - - 0 0 - - - - - - - - - -
+Sonia Berm�dez ESP FW WNY Flash 29 1984 21 9 837 4 1 0 0 2 0 0.43 0.11 0.54 0.43 0.54 - - -
+Michelle Betos USA GK Portland 25 1988 3 2 243 - - 0 0 - - - - - - - - - -
+Brittany Bock USA MF Houston 26 1987 1 1 23 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Liz Bogus USA FW Kansas City 29 1984 13 8 598 1 2 0 0 0 0 0.15 0.30 0.45 0.15 0.45 - - -
+Ver�nica Boquete ESP FW,MF Portland 26 1987 15 15 1,335 4 6 1 1 0 0 0.27 0.40 0.67 0.20 0.61 - - -
+Shannon Boxx USA MF Chicago 36 1977 5 4 245 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Megan Brigman USA DF Seattle 23 1990 2 0 17 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Hayley Brock USA FW Chicago 21 1992 8 3 238 1 1 0 0 0 0 0.38 0.38 0.76 0.38 0.76 - - -
+Amber Brooks USA DF,MF Portland 23 1991 20 19 1,598 1 2 0 0 4 0 0.06 0.11 0.17 0.06 0.17 - - -
+Jen Buczkowski USA DF,MF Kansas City 28 1985 24 24 2,087 1 3 0 0 2 0 0.04 0.13 0.17 0.04 0.17 - - -
+Mariah Bullock SAM DF,MF Seattle 22 1991 15 6 588 0 1 0 0 2 0 0.00 0.15 0.15 0.00 0.15 - - -
+Nina Burger AUT FW Houston 26 1987 17 15 978 4 1 0 0 1 0 0.37 0.09 0.46 0.37 0.46 - - -
+Zakiya Bywaters USA FW Chicago 22 1991 19 10 1,086 2 0 0 0 1 0 0.17 0.00 0.17 0.17 0.17 - - -
+Brittany Cameron USA GK Sky Blue 27 1986 7 7 630 - - 0 0 - - - - - - - - - -
+Steph Catley AUS DF Portland 20 1994 14 13 1,141 0 5 0 0 0 0 0.00 0.39 0.39 0.00 0.39 - - -
+Lori Chalupny USA MF Chicago 30 1984 23 22 2,003 5 0 0 0 1 0 0.22 0.00 0.22 0.22 0.22 - - -
+Stephanie Cox USA DF Seattle 27 1986 21 20 1,776 0 1 0 0 0 0 0.00 0.05 0.05 0.00 0.05 - - -
+Niki Cross USA DF Washington 28 1985 10 8 740 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Renae Cu�llar MEX FW Washington 23 1990 10 4 408 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Lindsi Cutshall USA DF Sky Blue 23 1990 14 11 943 3 0 0 0 0 0 0.29 0.00 0.29 0.29 0.29 - - -
+Bianca D'Agostino USA MF Boston 25 1989 16 6 679 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kiersten Dallstream USA DF,FW Seattle 25 1988 15 8 768 0 1 0 0 0 0 0.00 0.12 0.12 0.00 0.12 - - -
+Lisa De Vanna AUS FW Washington 29 1984 11 9 794 1 4 0 0 1 0 0.11 0.45 0.57 0.11 0.57 - - -
+Lisa De Vanna AUS FW Boston 29 1984 6 5 448 0 1 0 0 0 1 0.00 0.20 0.20 0.00 0.20 - - -
+Kim DeCesare USA FW,MF Boston 22 1991 1 0 9 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kate Deines USA DF,MF Seattle 24 1989 18 9 859 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Vanessa DiBernardo USA MF Chicago 21 1992 23 19 1,782 1 3 1 2 0 0 0.05 0.15 0.20 0.00 0.15 - - -
+Marissa Diggs USA DF Houston 21 1992 13 11 1,080 1 1 0 0 0 0 0.08 0.08 0.17 0.08 0.17 - - -
+Molly Dreska USA MF Kansas City 25 1988 1 0 52 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Crystal Dunn USA DF,MF Washington 21 1992 21 18 1,488 0 3 0 0 1 0 0.00 0.18 0.18 0.00 0.18 - - -
+Kristen Edmonds USA DF WNY Flash 26 1987 22 19 1,739 0 1 - - 1 0 0.00 0.05 0.05 - - - - -
+Becky Edwards USA DF,MF Houston 25 1988 23 23 2,070 0 2 0 1 3 0 0.00 0.09 0.09 0.00 0.09 - - -
+Emily van Egmond AUS MF Chicago 20 1993 10 6 633 2 2 1 1 1 0 0.28 0.28 0.57 0.14 0.43 - - -
+Lindsay Elston USA FW,MF Houston 21 1992 5 1 206 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Whitney Engen USA DF Houston 26 1987 11 11 978 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Abby Erceg NZL DF,FW Chicago 24 1989 11 11 990 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Julie Ertz USA DF,MF Chicago 21 1992 21 21 1,890 2 2 1 1 4 0 0.10 0.10 0.19 0.05 0.14 - - -
+Maddy Evans USA DF,MF Boston 22 1991 17 8 730 0 3 0 0 1 1 0.00 0.37 0.37 0.00 0.37 - - -
+Nkem Ezurike CAN FW Boston 21 1992 11 6 503 2 0 0 0 0 0 0.36 0.00 0.36 0.36 0.36 - - -
+Sinead Farrelly USA MF Portland 24 1989 17 16 1,303 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Jonelle Filigno CAN FW,MF Sky Blue 23 1990 17 6 697 1 1 0 0 1 0 0.13 0.13 0.26 0.13 0.26 - - -
+Jess Fishlock  WAL MF Seattle 27 1987 22 22 1,976 4 8 0 0 4 0 0.18 0.36 0.55 0.18 0.55 - - -
+Kendall Fletcher USA DF,MF Seattle 29 1984 23 22 1,917 2 1 0 0 0 0 0.09 0.05 0.14 0.09 0.14 - - -
+Caitlin Foord AUS DF,FW Sky Blue 19 1994 21 20 1,825 0 2 0 0 4 0 0.00 0.10 0.10 0.00 0.10 - - -
+Danielle Foxhoven USA FW,MF Seattle 24 1989 12 3 340 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Katy Freels USA MF Sky Blue 23 1990 23 23 2,021 5 4 1 2 2 0 0.22 0.18 0.40 0.18 0.36 - - -
+Kerstin Garefrekes GER FW,MF Washington 34 1979 10 6 591 1 0 0 0 0 0 0.15 0.00 0.15 0.15 0.15 - - -
+Robyn Gayle CAN DF Washington 28 1985 16 13 1,143 2 1 0 0 4 0 0.16 0.08 0.24 0.16 0.24 - - -
+Missy Geha USA MF Kansas City 26 1987 1 0 21 0 0 - - 0 0 0.00 0.00 0.00 - - - - -
+CoCo Goodson USA DF Sky Blue 23 1990 21 18 1,652 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Katrina Gorry AUS MF Kansas City 21 1992 9 3 376 1 0 0 0 0 0 0.24 0.00 0.24 0.24 0.24 - - -
+Ashley Grove USA MF Boston 23 1990 9 7 586 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Sarah Hagen USA FW Kansas City 24 1989 9 7 529 4 1 0 0 1 0 0.68 0.17 0.85 0.68 0.85 - - -
+DiDi Haracic BIH GK WNY Flash 21 1992 1 1 90 - - 0 0 - - - - - - - - - -
+Ashlyn Harris USA GK Washington 28 1985 19 19 1,710 - - 0 0 - - - - - - - - - -
+Maya Hayes USA FW Sky Blue 21 1992 23 13 1,146 1 1 0 0 0 0 0.08 0.08 0.16 0.08 0.16 - - -
+Tobin Heath USA FW,MF Portland 25 1988 5 5 401 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Holly Hein USA DF,MF Houston 22 1991 8 7 657 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Taryn Hemmings USA DF Chicago 27 1986 15 9 893 0 2 0 0 2 0 0.00 0.20 0.20 0.00 0.20 - - -
+Melissa Henderson USA FW,MF Kansas City 24 1989 5 3 185 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Melissa Henderson USA FW,MF Houston 24 1989 9 8 629 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Bianca Henninger MEX GK Houston 23 1990 5 5 405 - - 0 0 - - - - - - - - - -
+Lauren Holiday USA FW,MF Kansas City 26 1987 21 21 1,766 8 7 4 5 0 0 0.41 0.36 0.76 0.20 0.56 - - -
+Jen Hoy USA FW,MF Chicago 23 1991 21 16 1,354 4 3 0 0 2 0 0.27 0.20 0.47 0.27 0.47 - - -
+Sarah Huffman USA MF Portland 29 1984 22 9 962 1 1 0 0 2 0 0.09 0.09 0.19 0.09 0.19 - - -
+Tori Huster USA DF,MF Washington 24 1989 22 22 1,980 1 1 0 0 0 0 0.05 0.05 0.09 0.05 0.09 - - -
+Jordan Jackson USA MF Houston 23 1990 20 13 1,206 2 1 0 0 0 0 0.15 0.07 0.22 0.15 0.22 - - -
+Kendall Johnson USA DF,MF Sky Blue 22 1991 15 12 1,123 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Samantha Johnson USA DF,MF Chicago 22 1991 12 11 956 0 1 0 0 1 0 0.00 0.09 0.09 0.00 0.09 - - -
+Chantel Jones USA GK Washington 25 1988 5 5 450 - - 0 0 - - - - - - - - - -
+Courtney Jones USA DF,FW Boston 23 1990 18 13 1,296 3 1 0 0 6 0 0.21 0.07 0.28 0.21 0.28 - - -
+Kassey Kallman USA DF Kansas City 21 1992 18 18 1,479 0 1 0 0 1 0 0.00 0.06 0.06 0.00 0.06 - - -
+Nahomi Kawasumi JPN FW,MF Seattle 28 1985 20 17 1,531 9 5 0 0 0 0 0.53 0.29 0.82 0.53 0.82 - - -
+Sara Keane USA GK Kansas City 21 1992 2 2 180 - - 0 0 - - - - - - - - - -
+Angie Kerr USA MF Portland 28 1985 14 8 676 0 3 0 0 0 0 0.00 0.40 0.40 0.00 0.40 - - -
+Sam Kerr AUS FW,MF WNY Flash 20 1993 20 20 1,660 9 4 0 0 1 0 0.49 0.22 0.70 0.49 0.70 - - -
+Emma Kete NZL FW WNY Flash 26 1987 3 0 25 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Julie King USA DF Boston 24 1989 17 17 1,530 1 1 0 0 1 0 0.06 0.06 0.12 0.06 0.12 - - -
+Nanase Kiryu JPN FW Sky Blue 24 1989 16 12 909 0 1 0 0 0 0 0.00 0.10 0.10 0.00 0.10 - - -
+Meghan Klingenberg USA DF,MF Houston 25 1988 7 7 607 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Brittany Kolmel USA DF WNY Flash 26 1987 24 24 2,160 2 1 0 0 2 0 0.08 0.04 0.12 0.08 0.12 - - -
+Haley Kopmeyer USA GK Seattle 23 1990 4 4 360 - - 0 0 - - - - - - - - - -
+Ali Krieger USA DF,MF Washington 29 1984 22 22 1,935 1 0 0 0 1 0 0.05 0.00 0.05 0.05 0.05 - - -
+Kaylyn Kyle CAN MF Boston 25 1988 2 2 155 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kaylyn Kyle CAN MF Houston 25 1988 19 18 1,626 0 2 0 1 2 0 0.00 0.11 0.11 0.00 0.11 - - -
+Mandy Laddish USA MF Kansas City 21 1992 2 0 15 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Karina LeBlanc CAN GK Chicago 33 1980 21 21 1,890 - - 0 0 - - - - - - - - - -
+Adriana Leon CAN FW,MF Chicago 21 1992 20 15 1,173 1 3 0 0 2 0 0.08 0.23 0.31 0.08 0.31 - - -
+Amy LePeilbet USA DF Kansas City 31 1982 11 4 512 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Sydney Leroux USA FW Seattle 23 1990 22 21 1,873 5 0 0 0 2 0 0.24 0.00 0.24 0.24 0.24 - - -
+Camille Levin USA DF Sky Blue 23 1990 23 21 1,884 0 0 0 0 3 0 0.00 0.00 0.00 0.00 0.00 - - -
+Lori Lindsey USA MF Washington 33 1980 22 19 1,509 1 1 0 0 0 0 0.06 0.06 0.12 0.06 0.12 - - -
+Kim Little  SCO FW,MF Seattle 23 1990 23 22 1,966 16 7 7 7 0 0 0.73 0.32 1.05 0.41 0.73 - - -
+Carli Lloyd USA FW,MF WNY Flash 31 1982 19 19 1,710 8 5 1 2 5 0 0.42 0.26 0.68 0.37 0.63 - - -
+Joanna Lohman USA DF,MF Boston 31 1982 17 14 1,231 1 0 0 0 2 0 0.07 0.00 0.07 0.07 0.07 - - -
+Michelle Lomnicki USA DF Chicago 26 1987 18 15 1,380 2 1 0 0 1 0 0.13 0.07 0.20 0.13 0.20 - - -
+Allie Long USA MF Portland 26 1987 22 20 1,809 9 3 4 4 1 0 0.45 0.15 0.60 0.25 0.40 - - -
+Vicky Losada ESP MF WNY Flash 22 1991 23 18 1,624 3 6 0 0 2 0 0.17 0.33 0.50 0.17 0.50 - - -
+Jillian Loyden USA GK Sky Blue 28 1985 17 17 1,530 - - 0 0 - - - - - - - - - -
+Taylor Lytle USA MF Sky Blue 24 1989 7 5 481 0 1 0 0 0 0 0.00 0.19 0.19 0.00 0.19 - - -
+Morgan Marlborough USA FW Kansas City 23 1990 9 2 247 2 0 0 0 0 0 0.73 0.00 0.73 0.73 0.73 - - -
+Nikki Marshall USA DF,FW Portland 25 1988 24 24 2,072 0 0 0 0 3 0 0.00 0.00 0.00 0.00 0.00 - - -
+Ella Masar USA FW Houston 27 1986 18 14 1,152 3 1 0 1 4 0 0.23 0.08 0.31 0.23 0.31 - - -
+Diana Matheson CAN MF Washington 29 1984 23 21 1,970 8 6 4 6 2 0 0.37 0.27 0.64 0.18 0.46 - - -
+Merritt Mathias USA DF,MF Kansas City 23 1990 20 16 1,436 0 2 0 0 1 0 0.00 0.13 0.13 0.00 0.13 - - -
+Alyssa Mautz USA FW,MF Chicago 24 1989 20 12 1,053 3 0 0 0 5 0 0.26 0.00 0.26 0.26 0.26 - - -
+Tiffany McCarty USA FW Houston 23 1990 20 11 1,148 4 1 0 0 0 0 0.31 0.08 0.39 0.31 0.39 - - -
+Tori McCombs USA MF Houston 21 1992 1 0 19 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Jessica McDonald USA FW Portland 25 1988 24 13 1,310 11 1 0 0 0 0 0.76 0.07 0.82 0.76 0.82 - - -
+Kelly McFarlane USA MF Houston 21 1992 13 5 596 0 1 0 0 0 0 0.00 0.15 0.15 0.00 0.15 - - -
+Erin McLeod CAN GK Houston 30 1983 20 19 1,755 - - 0 0 - - - - - - - - - -
+Emily Menges USA DF Portland 21 1992 23 22 1,972 0 0 0 0 3 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kristie Mewis USA DF,MF Boston 22 1991 17 15 1,191 3 2 0 0 0 0 0.23 0.15 0.38 0.23 0.38 - - -
+Alex Morgan USA FW Portland 24 1989 14 13 1,135 6 4 0 0 0 0 0.48 0.32 0.79 0.48 0.79 - - -
+Rebecca Moros USA DF,MF Portland 28 1985 18 13 1,171 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Meg Morris USA MF Sky Blue 21 1992 3 1 96 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kecia Morway USA DF Chicago 22 1991 12 10 907 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Carmelina Moscato CAN DF Seattle 29 1984 1 0 12 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Nadia Nadim DEN FW Sky Blue 26 1988 6 5 495 7 3 0 0 3 0 1.27 0.55 1.82 1.27 1.82 - - -
+Alyssa Naeher USA GK Boston 25 1988 24 24 2,160 - - 0 0 - - - - - - - - - -
+Christine Nairn USA MF Washington 23 1990 23 21 1,838 6 2 0 0 2 0 0.29 0.10 0.39 0.29 0.39 - - -
+Ashley Nick USA MF Sky Blue 26 1987 22 17 1,612 1 0 0 0 3 0 0.06 0.00 0.06 0.06 0.06 - - -
+Courtney Niemiec USA DF Portland 21 1992 11 10 824 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Teresa Noyola MEX FW,MF Houston 23 1990 10 3 431 3 0 2 2 0 0 0.63 0.00 0.63 0.21 0.21 - - -
+Kelley O'Hara USA DF,FW Sky Blue 25 1988 22 22 1,917 7 5 0 1 0 0 0.33 0.23 0.56 0.33 0.56 - - -
+Heather O'Reilly USA FW,MF Boston 29 1985 22 21 1,874 9 5 6 6 3 0 0.43 0.24 0.67 0.14 0.38 - - -
+M�nica Ocampo MEX FW Sky Blue 27 1987 18 13 996 3 0 0 0 0 0 0.27 0.00 0.27 0.27 0.27 - - -
+Stephanie Ochs USA FW Houston 23 1990 24 19 1,804 0 2 0 0 0 0 0.00 0.10 0.10 0.00 0.10 - - -
+Osinachi Ohale NGA DF Houston 21 1992 19 18 1,555 1 0 0 0 4 1 0.06 0.00 0.06 0.06 0.06 - - -
+Haley Palmer USA DF WNY Flash 21 1992 7 5 357 0 1 0 0 0 0 0.00 0.25 0.25 0.00 0.25 - - -
+Kelsey Pardue USA MF Washington 14 2000 1 0 9 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Mollie Pathman USA FW,MF Boston 21 1992 21 18 1,519 0 1 0 0 0 0 0.00 0.06 0.06 0.00 0.06 - - -
+Christie Pearce USA DF Sky Blue 38 1975 19 18 1,665 1 2 0 0 0 0 0.05 0.11 0.16 0.05 0.16 - - -
+Veronica Perez - - Washington 35 1979 16 6 657 0 1 0 0 1 0 0.00 0.14 0.14 0.00 0.14 - - -
+Nikki Phillips POL DF,MF Kansas City 26 1987 23 23 1,970 1 0 0 0 1 0 0.05 0.00 0.05 0.05 0.05 - - -
+Christen Press USA FW Chicago 25 1988 12 12 1,080 6 0 1 2 0 0 0.50 0.00 0.50 0.42 0.42 - - -
+Toni Pressley USA DF Washington 23 1990 9 8 701 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Rachel Quon CAN DF Chicago 22 1991 19 19 1,693 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Megan Rapinoe USA FW,MF Seattle 28 1985 9 6 567 4 1 0 0 3 0 0.63 0.16 0.79 0.63 0.79 - - -
+Niki Read USA FW Chicago 22 1991 1 0 6 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Elli Reed USA DF,MF Seattle 24 1989 22 19 1,813 0 1 0 0 3 0 0.00 0.05 0.05 0.00 0.05 - - -
+Jazmine Reeves USA FW Boston 22 1992 17 13 1,151 7 1 0 0 1 0 0.55 0.08 0.63 0.55 0.63 - - -
+Katherine Reynolds USA DF WNY Flash 26 1987 19 19 1,628 0 0 0 0 2 1 0.00 0.00 0.00 0.00 0.00 - - -
+Dominique Richardson BER MF Houston 21 1992 2 1 92 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Jenna Richmond USA MF Kansas City 22 1991 22 20 1,754 1 4 0 0 2 0 0.05 0.21 0.26 0.05 0.26 - - -
+Amy Rodriguez USA FW,MF Kansas City 26 1987 22 21 1,808 13 3 0 0 0 0 0.65 0.15 0.80 0.65 0.80 - - -
+Arianna Romero MEX DF Houston 21 1992 21 19 1,765 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Angela Salem USA MF WNY Flash 25 1988 23 22 1,858 0 0 0 0 4 1 0.00 0.00 0.00 0.00 0.00 - - -
+Lianne Sanderson  ENG FW Boston 25 1988 19 17 1,524 5 3 0 0 2 1 0.30 0.18 0.47 0.30 0.47 - - -
+Jackie Santacaterina USA DF Chicago 26 1987 13 9 779 0 0 0 0 3 0 0.00 0.00 0.00 0.00 0.00 - - -
+Becky Sauerbrunn USA DF Kansas City 28 1985 22 22 1,935 1 0 0 0 1 0 0.05 0.00 0.05 0.05 0.05 - - -
+Sophie Schmidt CAN MF Sky Blue 25 1988 22 22 1,964 1 0 0 1 1 0 0.05 0.00 0.05 0.05 0.05 - - -
+Katie Schoepfer USA FW Boston 25 1988 17 12 989 4 0 0 0 0 0 0.36 0.00 0.36 0.36 0.36 - - -
+Meleana Shim USA MF Portland 22 1991 17 4 530 0 2 0 0 1 0 0.00 0.34 0.34 0.00 0.34 - - -
+Bianca Sierra MEX DF Boston 21 1992 11 9 798 0 1 0 0 1 0 0.00 0.11 0.11 0.00 0.11 - - -
+Bianca Sierra MEX DF Washington 21 1992 9 5 520 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Frances Silva USA FW,MF Kansas City 21 1992 18 5 568 2 1 0 0 0 0 0.32 0.16 0.48 0.32 0.48 - - -
+Christine Sinclair CAN FW,MF Portland 30 1983 23 22 1,987 7 1 0 0 2 0 0.32 0.05 0.36 0.32 0.36 - - -
+Alex Singer USA DF Washington 26 1987 11 11 972 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Julianne Sitch USA DF,MF Chicago 30 1983 11 9 762 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Jennifer Skogerboe USA MF Washington 21 1992 1 0 15 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Hope Solo USA GK Seattle 32 1981 20 20 1,800 - - 0 0 - - - - - - - - - -
+Rafaelle Souza BRA FW,MF Houston 22 1991 16 6 507 0 1 0 0 1 0 0.00 0.18 0.18 0.00 0.18 - - -
+Jasmyne Spencer USA FW WNY Flash 23 1990 22 9 933 3 1 0 0 1 0 0.29 0.10 0.39 0.29 0.39 - - -
+Nikki Stanton USA MF Sky Blue 23 1990 4 0 78 0 0 0 0 1 0 0.00 0.00 0.00 0.00 0.00 - - -
+Chelsea Stewart CAN MF Boston 23 1990 10 7 512 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Elisabeth Sullivan USA FW Portland 22 1991 1 0 1 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Melissa Tancredi CAN FW Chicago 32 1981 13 7 682 3 1 0 0 2 1 0.40 0.13 0.53 0.40 0.53 - - -
+Katarina Tarr USA DF Portland 26 1987 6 5 405 0 0 0 0 1 1 0.00 0.00 0.00 0.00 0.00 - - -
+Jodie Taylor  ENG FW Washington 27 1986 21 19 1,727 11 2 0 0 1 0 0.57 0.10 0.68 0.57 0.68 - - -
+Hanna Terry USA FW Portland 23 1990 2 0 8 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Maddie Thompson USA DF Sky Blue 23 1990 2 1 96 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kika Toulouse USA DF Houston 24 1989 7 5 375 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Erika Tymrak USA FW,MF Kansas City 22 1991 21 18 1,540 4 4 0 0 0 0 0.23 0.23 0.47 0.23 0.47 - - -
+Rachel Van Hollebeke USA DF Portland 28 1985 12 9 835 0 1 0 0 1 0 0.00 0.11 0.11 0.00 0.11 - - -
+Taylor Vancil USA GK Chicago 22 1991 3 3 270 - - 0 0 - - - - - - - - - -
+Courtney Verloo USA DF,FW WNY Flash 22 1991 1 0 1 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Abby Wambach USA FW WNY Flash 33 1980 10 10 835 6 4 0 0 1 0 0.65 0.43 1.08 0.65 1.08 - - -
+Nikki Washington USA FW,MF Boston 25 1988 15 10 939 1 0 0 0 1 0 0.10 0.00 0.10 0.10 0.10 - - -
+Nikki Washington USA FW,MF Houston 25 1988 3 3 247 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kealia Watt USA FW,MF Houston 22 1992 23 21 1,817 4 1 0 0 1 0 0.20 0.05 0.25 0.20 0.25 - - -
+Michele Weissenhofer USA FW Chicago 26 1987 1 0 14 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Courtney Wetzel USA DF,MF WNY Flash 24 1989 8 0 122 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Cat Whitehill USA DF Boston 31 1982 24 24 2,101 0 1 0 0 1 0 0.00 0.04 0.04 0.00 0.04 - - -
+Lydia Williams AUS GK WNY Flash 25 1988 14 14 1,183 - - 0 0 - - - - - - - - - -
+Nia Williams USA DF Kansas City 23 1990 5 2 260 0 0 0 0 0 0 0.00 0.00 0.00 0.00 0.00 - - -
+Kat Williamson USA DF WNY Flash 24 1989 21 20 1,699 0 0 0 0 2 0 0.00 0.00 0.00 0.00 0.00 - - -
+Keelin Winters USA MF Seattle 25 1988 23 22 1,963 3 0 0 0 5 0 0.14 0.00 0.14 0.14 0.14 - - -
+Rachel Wood USA DF,MF Boston 23 1990 7 7 585 1 1 0 0 0 0 0.15 0.15 0.31 0.15 0.31 - - -
+Kelsey Wys USA GK WNY Flash 22 1991 10 9 887 - - 0 0 - - - - - - - - - -
+Beverly Yanez USA FW,MF Seattle 25 1988 24 21 1,736 5 4 0 0 1 0 0.26 0.21 0.47 0.26 0.47 - - -
+McCall Zerboni USA MF WNY Flash 27 1986 24 23 2,036 3 2 0 0 2 0 0.13 0.09 0.22 0.13 0.22 - - -
