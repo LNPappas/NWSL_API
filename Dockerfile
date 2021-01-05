@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.9.1-alpine
 LABEL maintainer="Lauren Pappas"
 LABEL version="1.0"
 
